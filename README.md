@@ -1,1 +1,1 @@
-Bu dizinde RentHouse projemin backend kısmı yer almaktadır.
+Bu dizinde RentHouse projemin Java ile katmanlı mimaride yazılmış backend kısmı yer almaktadır.
